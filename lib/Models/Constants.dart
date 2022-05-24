@@ -1,0 +1,16 @@
+import 'package:flutter/material.dart';
+import 'package:flutter/cupertino.dart';
+const red=Color.fromRGBO(212, 20, 100,1);
+const green=Color.fromRGBO(128, 128, 0, 1);
+const pank=Color.fromRGBO(182, 128, 182, 1);
+const blue=Color.fromRGBO(140, 50, 220, 1);
+const white=Color.fromRGBO(120, 255, 255, 1);
+const black=Color.fromRGBO(0, 0, 0, 1);
+const Textcolor=Color.fromRGBO(150, 70, 70, 1);
+const reds=Color.fromRGBO(150, 100, 50, 1);
+const  double smallfont=12;
+const double largfont=18;
+const double largXfont=24;
+const double titelfont=36;
+const int Bigpadding=15;
+const int Smallpaddin=10;
